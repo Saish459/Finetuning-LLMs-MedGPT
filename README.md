@@ -34,5 +34,3 @@ Future improvements for this project include:
 - Enhancing the accuracy and responsiveness of the generated answers.
 - Expanding the dataset to include more diverse medical queries and symptoms.
 - Implementing user feedback mechanisms to improve the application over time.
-
-We welcome contributions and feedback from the community to help us further develop and enhance the Medical Query Assistant project.
