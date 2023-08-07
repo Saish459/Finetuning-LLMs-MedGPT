@@ -20,7 +20,7 @@ This project consists of the following main components:
 
 6. **Backend Integration**: Connect the Streamlit front end to your fine-tuned GPT-2 model. Pass the user's input to the model and retrieve the generated answer.
 
-7. **Display Answer**: Present the generated answer from the GPT-2 model on the Streamlit interface for the user to view.
+7. **Display Answer**: Present the generated answer from the MedGPT model on the Streamlit interface for the user to view.
 
 
 ## 👏 Acknowledgments
