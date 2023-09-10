@@ -23,7 +23,7 @@ This project consists of the following main components:
 
 ## 👏 Acknowledgments
 
-I would like to acknowledge the developers behind the Hugging Face's Transformers library, which greatly facilitated the fine-tuning process.
+I would like to acknowledge the developers behind the Hugging Face's Transformers library, which greatly facilitated the fine-tuning process and providing GPT-2 model.
 
 ## 🚀 Roadmap
 
